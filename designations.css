@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(103, 156, 203, 0.671);
+}
+
+
+figure{
+    background-color: rgba(60, 69, 192, 0.712);
+}
+
+marquee{
+    background-color: rgba(255, 255, 255, 0.66);
+    
+}
+
+
+h2{
+    color: rgb(16, 16, 16);
+    font-size: 28px;
+}
+
+p{
+    background-color: black;
+    color: blanchedalmond;
+    font-size: 25px;
+    width: 600px;
+}
+
+ul{
+    font-size: 21px;
+    color: rgb(246, 248, 244);
+
+}
+
+img{
+
+    height: 300px;
+    width: 600px;
+}
+
+h1{
+
+    color: blanchedalmond;
+
+}
+
+
+button{
+    color: rgb(246, 241, 241);
+    background-color: rgba(37, 161, 128, 0.705);
+    height: 30px;
+    font-size: 15px;
+}
+
+
