@@ -1,3 +1,6 @@
+@media(max-width:480px)
+{
+
 body{
     background-color: rgba(103, 156, 203, 0.671);
 }
@@ -51,4 +54,4 @@ button{
     font-size: 15px;
 }
 
-
+}

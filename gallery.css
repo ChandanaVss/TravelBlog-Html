@@ -1,3 +1,7 @@
+@media(max-width:480px)
+
+    {
+    
 body{
     background-color: rgba(195, 105, 134, 0.902);
 }
@@ -66,4 +70,7 @@ button{
 
 .sec6{
     background-color: rgba(175, 135, 61, 0.635);
+}
+
+
 }

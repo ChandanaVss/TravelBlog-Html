@@ -1,3 +1,6 @@
+@media(max-width:480px)
+       {
+
 .sec_main{
     
     background-color: #98b9ab;
@@ -99,4 +102,6 @@ button{
 
 figure,table,tr,h2{
     font-style: italic;
+}
+
 }
