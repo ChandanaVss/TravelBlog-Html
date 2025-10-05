@@ -1,12 +1,12 @@
-@media(max-width:480px)
-{
 
 body{
+    width: 500px;
     background-color: rgba(103, 156, 203, 0.671);
 }
 
 
 figure{
+    width: 580%;
     background-color: rgba(60, 69, 192, 0.712);
 }
 
@@ -54,4 +54,4 @@ button{
     font-size: 15px;
 }
 
-}
+

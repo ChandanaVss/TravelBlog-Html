@@ -1,7 +1,4 @@
-@media(max-width:480px)
 
-    {
-    
 body{
     background-color: rgba(195, 105, 134, 0.902);
 }
@@ -27,11 +24,6 @@ p{
     animation: jump 1s infinite; 
 }
 
-@keyframes jump {
-    0%   { transform: translateY(0); }
-    50%  { transform: translateY(-20px); } /* jump up */
-    100% { transform: translateY(0); }     /* back to original */
-  }
 
 img{
     height:200px;
@@ -39,6 +31,7 @@ img{
 }
 
 marquee{
+    width:700px ;
     background-color: rgba(15, 15, 15, 0.623);
     color: aliceblue;
     height: 70px;
@@ -51,26 +44,27 @@ button{
     background-color: rgb(232, 205, 205);
 }
 
-.sec1{
+#a1{
     background-color: rgb(178, 141, 141);
 }
 
 
-.sec2{
+#a2{
     background-color: rgba(131, 131, 226, 0.614);
 }
 
-.sec4{
+#a4{
     background-color: rgba(82, 221, 175, 0.534);
 }
 
-.sec5{
+#a5{
     background-color: rgba(171, 83, 171, 0.562);
 }
 
-.sec6{
+#a6{
     background-color: rgba(175, 135, 61, 0.635);
 }
 
-
+.sec1{
+    width: 700px;
 }
